@@ -1,0 +1,5 @@
+Cartopy
+matplotlib
+numpy
+pyshtools
+scipy
