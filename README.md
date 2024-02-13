@@ -13,8 +13,12 @@ while slight variants might be needed using different operating systems.
 
 ## Dependencies
 
-Required pyhton packages can be installed with:
+Required pyhton packages can be installed with pip:
 
 `pip install -r requirements.txt`
+
+or with conda:
+
+conda install --file requirements.txt
 
 
