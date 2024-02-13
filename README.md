@@ -19,6 +19,6 @@ Required pyhton packages can be installed with pip:
 
 or with conda:
 
-`conda install --file requirements.txt'
+`conda install --file requirements.txt`
 
 
