@@ -13,7 +13,7 @@ while slight variants might be needed using different operating systems.
 
 ## Dependencies
 
-Required pyhton packages can be installed with pip:
+Required python packages can be installed with pip:
 
 `pip install -r requirements.txt`
 
